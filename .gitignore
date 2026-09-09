@@ -1,0 +1,18 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.Backup.tmp
+
+# Banco SQLite local (dados de teste, gerado em runtime)
+*.db
+*.db-shm
+*.db-wal
+
+# Material de estudo pessoal (não faz parte do repositório público)
+GUIA.md
+Controllers/paramostrarnovs.txt
